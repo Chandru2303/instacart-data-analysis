@@ -51,18 +51,31 @@ The dataset includes the following files:
 ### 📊 Key Insights & Visualizations
 #### 1️⃣ Order Distribution by Hour of Day
 - Most orders are placed between **8 AM and 5 PM**, peaking at **10 AM**.
+- <img width="879" height="473" alt="Order Distribution by Hour of Day" src="https://github.com/user-attachments/assets/19f418ab-e181-4156-b989-299f90f34af8" />
+
 
 #### 2️⃣ Order Distribution by Day of Week
 - The highest number of orders occur on **Sundays and Monday**, suggesting higher weekend grocery shopping activity.
+- <img width="879" height="473" alt="Order Distribution by Day of Week" src="https://github.com/user-attachments/assets/1fcb001e-2396-4037-84bd-822ea405a588" />
+
 
 #### 3️⃣ Customer Order Frequency
 - Many customers reorder every **8th and 30th day**, indicating bi-weekly and monthly shopping patterns.
+- <img width="879" height="473" alt="Customer Order Frequency" src="https://github.com/user-attachments/assets/aa6f3cdd-cf9a-4e10-ac94-4aa2e1c417a4" />
+
 
 #### 4️⃣ Most Frequently Ordered Products
 - The top 10 most purchased products include **fresh produce, dairy, and staple groceries**.
+- <img width="995" height="473" alt="Most Frequently Ordered Products" src="https://github.com/user-attachments/assets/b5cfe05b-0a77-47f1-a36e-412a384d9315" />
+
 
 #### 5️⃣ Reorder Rate
 - A high percentage of items(60%) are reordered, suggesting strong customer loyalty and repeat purchases.
+- <img width="1092" height="550" alt="Most Ordered Departments" src="https://github.com/user-attachments/assets/6312cc46-1501-464a-9433-f318154096b1" />
+
+#### Basket Size Distribution
+- <img width="888" height="473" alt="Basket Size Distribution" src="https://github.com/user-attachments/assets/ddaef407-0bc7-4274-8ef7-8ab7eaded622" />
+
 
 ## 🚀 Next Steps
 - Perform **customer segmentation** to identify different shopping behaviors.
