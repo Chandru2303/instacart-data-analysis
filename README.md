@@ -76,6 +76,11 @@ The dataset includes the following files:
 #### Basket Size Distribution
 - <img width="888" height="473" alt="Basket Size Distribution" src="https://github.com/user-attachments/assets/ddaef407-0bc7-4274-8ef7-8ab7eaded622" />
 
+## 📓 Jupyter Notebook
+
+Click below to view the complete analysis:
+
+[🔗 EDA_Instacart.ipynb](EDA_Instacart.ipynb)
 
 ## 🚀 Next Steps
 - Perform **customer segmentation** to identify different shopping behaviors.
