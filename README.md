@@ -1,7 +1,36 @@
 # Instacart Market Basket Analysis - Exploratory Data Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 This project explores the **Instacart Online Grocery Dataset** to uncover customer shopping behavior, order patterns, and product demand trends. The dataset consists of multiple CSV files containing order details, product information, and customer purchase history.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Project Objectives
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Customer Purchase Analysis
+- Product Trends
+- Department Analysis
+
+## Key Insights
+- Most frequently ordered products
+- Peak ordering hours
+- Customer reorder behavior
+- Top-selling departments
+- Product popularity analysis
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Wrangling
+- Data Visualization
+- Business Insights
+
 
 ## 📂 Dataset Information
 The dataset includes the following files:
